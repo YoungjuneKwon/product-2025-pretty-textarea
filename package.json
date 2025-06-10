@@ -1,6 +1,6 @@
 {
   "name": "@winm2m/pretty-textarea",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A WebComponent textarea implementation with custom properties and styles.",
   "main": "lib/index.js",
   "keywords": [
